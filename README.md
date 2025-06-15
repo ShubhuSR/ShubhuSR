@@ -12,7 +12,7 @@
 ---
 
 🌐 **Connect with me**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhamrane/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-rane48/)  
 📫 Email: shubhamrane.dev@gmail.com
 
 ---

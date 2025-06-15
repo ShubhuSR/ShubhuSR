@@ -1,7 +1,7 @@
 <!-- README.md for GitHub profile -->
 
-<h1 align="center">Hi 👋, I'm Shubham Rane</h1>
-<h3 align="center">A passionate Flutter Developer from India 🇮🇳</h3>
+<h1 align="left">Hi 👋, I'm Shubham Rane</h1>
+<h3 align="left">A passionate Flutter Developer from India 🇮🇳</h3>
 
 💫 **About Me**  
 🚀 I'm a results-driven Flutter developer with 4+ years of experience in building scalable, high-performance mobile apps.  

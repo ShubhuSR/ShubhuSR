@@ -11,7 +11,8 @@
 💡 I love building real-world apps that create impact and solve practical problems.</br>
 
 ---
-<h3>🌐 Connect with me </h3>  
+<h3>🌐 Connect with me </h3>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=logmein&logoColor=white)](https://www.linkedin.com/in/shubham-rane48/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:shubhrane4896@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/shubham_r_rane/)

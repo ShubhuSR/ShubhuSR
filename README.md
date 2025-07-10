@@ -5,10 +5,10 @@
 
 
 <h3>💫 About Me  </h4>
-🚀 I'm a results-driven Flutter developer with 5+ years of experience in building scalable, high-performance mobile apps.</br>  
-🎯 I've worked across industries including shipping, stock market, insurance, devotional, and e-commerce.  
-🎓 I hold an MBA in IT and a B.E. in Information Technology.  
-💡 I love building real-world apps that create impact and solve practical problems.
+🚀 I'm a results-driven Flutter developer with 5+ years of experience in building scalable, high-performance mobile apps.</br>
+🎯 I've worked across industries including shipping, stock market, insurance, devotional, and e-commerce.</br>
+🎓 I hold an MBA in IT and a B.E. in Information Technology.</br>
+💡 I love building real-world apps that create impact and solve practical problems.</br>
 
 ---
 🌐 **Connect with me**  

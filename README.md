@@ -19,17 +19,32 @@
 
 ---
 
-💻 **Tech Stack**  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)  
-![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)  
-![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)  
-![GetX](https://img.shields.io/badge/GetX-purple)  
-![Bloc](https://img.shields.io/badge/Bloc-3A3A3A?logo=bloc&logoColor=white)  
-![Provider](https://img.shields.io/badge/Provider-0A0A0A?logo=provider&logoColor=white)  
+<h3> 💻 Tech Stack </h3>
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?logo=android-studio&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?logo=xcode&logoColor=white)
+![CocoaPods](https://img.shields.io/badge/CocoaPods-EE3322?logo=cocoapods&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?logo=ionic&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
+![Microsoft Outlook](https://img.shields.io/badge/Outlook-0078D4?logo=microsoft-outlook&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+![GetX](https://img.shields.io/badge/GetX-purple)
+![Bloc](https://img.shields.io/badge/Bloc-3A3A3A?logo=bloc&logoColor=white)
+![Provider](https://img.shields.io/badge/Provider-0A0A0A?logo=provider&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
+
 
 ---
 

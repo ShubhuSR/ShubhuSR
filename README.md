@@ -4,14 +4,14 @@
 <h2 align="center">A results-driven mobile app developer from India 🇮🇳, focused on building impactful digital solutions.</h2>
 
 
-<h3>💫 About Me  </h4>
-🚀 I'm a results-driven Flutter developer with 5+ years of experience in building scalable, high-performance mobile apps.</br>
-🎯 I've worked across industries including shipping, stock market, insurance, devotional, and e-commerce.</br>
+<h3>💫 About Me  </h3>
+🚀 I'm a results-driven App developer with 5+ years of experience in building scalable, high-performance mobile apps.</br>
+🎯 I've worked across industries including shipping, stock market, insurance, finance, devotional, and e-commerce.</br>
 🎓 I hold an MBA in IT and a B.E. in Information Technology.</br>
 💡 I love building real-world apps that create impact and solve practical problems.</br>
 
 ---
-🌐 **Connect with me**  
+<h3>🌐 Connect with me </h3>  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=logmein&logoColor=white)](https://www.linkedin.com/in/shubham-rane48/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:shubhrane4896@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/shubham_r_rane/)
